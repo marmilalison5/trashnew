@@ -1,2 +1,2 @@
-ON
-Server maintenance in progress: game data update. Please check back in about 15 minutes.
+OFF
+Server maintenance in progress. Please check back soon.
