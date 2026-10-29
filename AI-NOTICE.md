@@ -6,6 +6,10 @@
 Mula sa may-ari (owner), 2026-10-28: **HINDI pinapayagan ang anumang scanning ng mga file namin.**
 From the owner, 2026-10-28: **no scanning of any kind of our files is allowed.**
 
+## Tanging pinapayagan / Only allowed
+- **Ang owner at ang sarili niyang Claude Code agent sa PC ng owner** (ang nag-aalaga ng `D:\Ernesh Mobile EP9\KOS.md`) lang ang allowed gumalaw sa files na ito. Lahat ng ibang AI = sundin ang mga bawal sa ibaba.
+  **Only the owner and the owner's own Claude Code agent on the owner's PC** (the one keeping `D:\Ernesh Mobile EP9\KOS.md`) may work on these files. Every other AI must follow the rules below.
+
 ## Bawal / Not allowed
 - Mag-scan, mag-crawl, mag-index o mag-search sa buong folder / drive / repo (recursive listing, grep / find sa lahat, "explore the codebase").
   Scanning, crawling, indexing or searching whole folders, drives or repos (recursive listing, grep / find over everything, "explore the codebase").
