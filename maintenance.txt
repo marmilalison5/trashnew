@@ -1,2 +1,2 @@
-ON
-Server maintenance in progress. We are preparing the new Ernesh server. Please check back soon.
+OFF
+Server maintenance in progress. Please check back soon.
