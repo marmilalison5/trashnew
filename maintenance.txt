@@ -1,2 +1,2 @@
-OFF
-Server maintenance. Babalik agad.
+ON
+Server maintenance - inaayos ang bagong Ernesh server. Babalik agad.
