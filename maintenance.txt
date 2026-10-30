@@ -1,2 +1,2 @@
-OFF
-Server maintenance in progress. Please check back soon.
+ON
+We are moving to the NEW server. Please tap UPDATE at the top to install the new app (or install the new APK from the group), then log in again. Your account, characters and items are moved.
