@@ -1,2 +1,2 @@
-OFF
+ON
 Server maintenance in progress. Please check back soon.
