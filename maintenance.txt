@@ -1,4 +1,2 @@
-ON
-Server maintenance (about 10 minutes).
-Patch: Ernesh Wing items back to BELT type, Ernesh Aura items back to RING type (wearable in the right slot again).
-New app update 217: the game now continues by itself as soon as the server is back.
+OFF
+Server maintenance in progress. Please check back soon.
